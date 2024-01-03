@@ -3,7 +3,7 @@
 
 
 def validUTF8(data):
-    """ Method that determines if a given data set 
+    """ Method that determines if a given data set
     represents a valid UTF-8 encoding"""
     remainder = 0
     mask_1 = 1 << 7
