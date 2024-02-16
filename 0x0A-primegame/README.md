@@ -90,3 +90,6 @@ carrie@ubuntu:~/0x0A-primegame$
 carrie@ubuntu:~/0x0A-primegame$ ./main_0.py
 Winner: Ben
 carrie@ubuntu:~/0x0A-primegame$
+
+REVERTING BACK TO PREVIOUS COMMIT
+git reset -hard <commit_hash>
